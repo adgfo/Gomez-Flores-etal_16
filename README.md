@@ -7,7 +7,7 @@ The repository includes three folders: **blender**, **figuresAndVideos**, and **
 
 *Blender file of the agitated tank geometry*
 
-## figures
+## figuresAndVideos
 
 *A link to download the figures in the paper in high-resolution is provided in this folder.*
 
