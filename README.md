@@ -1,11 +1,15 @@
 # Development of software for froth flotation simulation: A review
 
 This repository provides relevant files referenced in **[our paper](https://youtu.be/wDKfSdN1qH8)**. Feel free to use the files, but please acknowledge their source by citing the repository and the paper.
-The repository includes three folders: **blender**, **figuresAndVideos**, and **omniverse**.
+The repository includes three folders: **blender**, **data**, **figuresAndVideos**, and **omniverse**.
 
 ## blender
 
-*Blender file of the agitated tank geometry*
+*Blender file of the agitated tank geometry.*
+
+## data
+
+*CSV files of charge-discharge data and electrochemical impedance spectroscopy data*
 
 ## figuresAndVideos
 
@@ -13,7 +17,7 @@ The repository includes three folders: **blender**, **figuresAndVideos**, and **
 
 ## omniverse
 
-*USD file of the agitated tank*
+*USD file of the agitated tank.*
 
 # Thanks for visiting =)
 
