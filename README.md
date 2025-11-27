@@ -7,10 +7,6 @@ The repository includes three folders: **blender**, **data**, **figuresAndVideos
 
 *Blender file of the agitated tank geometry.*
 
-## data
-
-*CSV files of charge-discharge data and electrochemical impedance spectroscopy data*
-
 ## figuresAndVideos
 
 *Links to download high-resolution figures of those in the paper and watch a video of the Omniverse example.*
