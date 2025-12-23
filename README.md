@@ -9,7 +9,7 @@ The repository includes three folders: **blender**, **data**, **figuresAndVideos
 
 ## figuresAndVideos
 
-*Links to download high-resolution figures of those in the paper and watch a video of the Omniverse example.*
+*Links to download high-resolution figures of those in the paper, data from Figure 1, and a video of the Omniverse example.*
 
 ## omniverse
 
